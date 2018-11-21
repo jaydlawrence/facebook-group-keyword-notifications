@@ -1,0 +1,25 @@
+{
+  "name": "facebook-group-keyword-notifications",
+  "version": "0.0.1",
+  "description": "A tool to scan the posts of  predefined facebook groups, looking for predefined keywords and sending out notifications for new posts.",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydlawrence/facebook-group-keyword-notifications.git"
+  },
+  "keywords": [
+    "facebook",
+    "groups",
+    "notifications",
+    "keywords"
+  ],
+  "author": "Jayd Lawrence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydlawrence/facebook-group-keyword-notifications/issues"
+  },
+  "homepage": "https://github.com/jaydlawrence/facebook-group-keyword-notifications#readme"
+}
