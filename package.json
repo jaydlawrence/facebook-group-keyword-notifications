@@ -4,7 +4,8 @@
   "description": "A tool to scan the posts of  predefined facebook groups, looking for predefined keywords and sending out notifications for new posts.",
   "main": "run.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "check-groups": "node --experimental-modules run.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,15 @@
   "bugs": {
     "url": "https://github.com/jaydlawrence/facebook-group-keyword-notifications/issues"
   },
-  "homepage": "https://github.com/jaydlawrence/facebook-group-keyword-notifications#readme"
+  "homepage": "https://github.com/jaydlawrence/facebook-group-keyword-notifications#readme",
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.0"
+  },
+  "dependencies": {
+    "fb": "^2.0.0"
+  }
 }
