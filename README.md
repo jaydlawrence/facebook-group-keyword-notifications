@@ -1,3 +1,5 @@
+# UPDATE 2022: Thank you Jay for your work. I also encountered the same problem and was looking for solution, could not find anything and build a small tool myself. The tool monitors Private FB groups for keywords and leads. [Devi](https://ddevi.com) 
+
 # Facebook Group Keyword Notifications
 
 Facebook used to have the ability to save any search in a group so that it would notify you if new posts came up that matched your search.
